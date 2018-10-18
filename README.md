@@ -12,6 +12,9 @@ Build one of the following binaries for your platform:
 * make osx
 * make linux
 
+
+(Or download from [releases](https://github.com/Roverr/sm/releases), be aware that it's named `sm-osx` and `sm-linux`, but `sm.exe` for windows.)
+
 Put the binary into your PATH.
 
 The application takes all arguments you pass, then tries to evaluate using the Knetic's library.
